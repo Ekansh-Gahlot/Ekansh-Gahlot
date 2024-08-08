@@ -1,4 +1,4 @@
-# EkanshGahlot
+# Ekansh Gahlot
 My personal repository
 
 - I am intrested in learning more about Computers, coding and anything related to techonolgy. 
